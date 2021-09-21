@@ -7,13 +7,7 @@
 
 The case study in the Blockchain_Case_Study folder
 
-![finhavens](/Blockchain_Case_Study/Images/Finhaven.png)
 
-[Finhaven](/Blockchain_Case_Study/Finhaven.md)
-Blockchain_Case_Study 
-</br>
-
-[Blockchain](/POA_Development_Chain/POA_Readme.md)
 
 ---
 ## **Part 2: Proof of Authority Development Chain**
