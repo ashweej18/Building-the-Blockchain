@@ -140,7 +140,7 @@ To set up a testnet based on Proof of Authority consensus algorithm to allow to 
   7. Testing the network through transferring ETH
      ![Balance](Screenshots/mycrypto_bal.png)
 
-     ![send](Screenshots/mycrypto_send.png)
+     ![send](Screenshots/ETH_send.png)
 
      ![confirmation](Screenshots/Confirmation_transaction.png)
 
