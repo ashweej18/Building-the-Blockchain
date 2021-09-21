@@ -7,7 +7,7 @@
 
 The case study in the Blockchain_Case_Study folder
 
-![finhaven](/Blockchain_Case_Study/Images/Finhaven.png)
+![finhavens](/Blockchain_Case_Study/Images/Finhaven.png)
 
 [Finhaven](/Blockchain_Case_Study/Finhaven.md)
 Blockchain_Case_Study 
