@@ -104,7 +104,7 @@ To set up a testnet based on Proof of Authority consensus algorithm to allow to 
 
 ---
 ## **Output**
- The screenshots for the outputs are stored in the [Screenshots](/Screenshots/)
+ The screenshots for the outputs are stored in the **Screenshots** folder
 
  1. Creation of Nodes
     ![Node creation](Screenshots/Node_creation.png)
@@ -119,6 +119,8 @@ To set up a testnet based on Proof of Authority consensus algorithm to allow to 
 
   2. Generate Genisys Block
      ![Blockchain creation](Screenshots/Blockchain_creation.png)
+
+     Test Network Name : blockchain 
   3. Export Genisys configuration
      ![Blockchain creation](Screenshots/Blockchain_export.png)
   4. Initialization of Nodes
@@ -140,7 +142,7 @@ To set up a testnet based on Proof of Authority consensus algorithm to allow to 
 
      ![send](Screenshots/mycrypto_send.png)
 
-     ![confirmation](Screenshots/Transaction_confirmation.png)
+     ![confirmation](Screenshots/Confirmation_transaction.png)
 
      ![status1](Screenshots/Transaction_status1.png)
 
