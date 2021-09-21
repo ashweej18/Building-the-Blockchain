@@ -15,7 +15,8 @@ To set up a testnet based on Proof of Authority consensus algorithm to allow to 
 
 ---
 ## **Tools**
-
+* [MyCrypto](https://www.mycrypto.com/)
+* [Go Ethereum](https://geth.ethereum.org/)
 
 
 ---
@@ -88,7 +89,7 @@ To set up a testnet based on Proof of Authority consensus algorithm to allow to 
     * Looks like we're filthy rich! This is the balance that was pre-funded for this account in the genesis configuration; however, these millions of ETH tokens are just for testing purposes.   
 
 
-    * In the `To Address` box, type the account address from Node2, then fill in an arbitrary amount of ETH:
+    * In the `To Address` box, type the account address from Node1, then fill in an arbitrary amount of ETH:
 
 
     * Confirm the transaction by clicking "Send Transaction", and the "Send" button in the pop-up window.  
@@ -100,3 +101,47 @@ To set up a testnet based on Proof of Authority consensus algorithm to allow to 
     * You should see the transaction go from `Pending` to `Successful` in around the same blocktime you set in the genesis.
 
     * You can click the `Check TX Status` button to update the status
+
+---
+## **Output**
+ The screenshots for the outputs are stored in the [Screenshots](/Screenshots/)
+
+ 1. Creation of Nodes
+    ![Node creation](Screenshots/Node_creation.png)
+
+    Node 1 Public Address : `0x232354F63f15fA3321f21BA005BD5df431d8bf84` 
+    </br>
+    Node 1 Password: 123
+
+     Node 2 Public Address : `0xEF3F72Cc76E1Ff4A606A3D92C55027F26e1479e9` 
+    </br>
+    No Node 2 Password
+
+  2. Generate Genisys Block
+     ![Blockchain creation](Screenshots/Blockchain_creation.png)
+  3. Export Genisys configuration
+     ![Blockchain creation](Screenshots/Blockchain_export.png)
+  4. Initialization of Nodes
+     ![Node Initialization](Screenshots/Node1_init.png)
+
+  5. Begin Mining 
+     ![Node1 Mine](Screenshots/Node1_mine.png)
+
+     ![Node2 Mine](Screenshots/Node1_mine.png)
+
+     </br>
+
+     Enode :`enode://27b66934993e60032fd7f9545f9bf470c4626bf30fc524230f1d493bf3705a78c472df86134f1b90b98df8f91fbd6033098ee4c1dd17a69adb3848319bbcd89b@127.0.0.1:30303` 
+
+  6. MyCrypto Custom Network
+     ![Custom network](Screenshots/Puppernet.png)
+  7. Testing the network through transferring ETH
+     ![Balance](Screenshots/mycrypto_bal.png)
+
+     ![send](Screenshots/mycrypto_send.png)
+
+     ![confirmation](Screenshots/Transaction_confirmation.png)
+
+     ![status1](Screenshots/Transaction_status1.png)
+
+     ![status2](Screenshots/Transaction_status2.png)
