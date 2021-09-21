@@ -5,6 +5,8 @@
 ---
 ## **Part 1: Blockchain Case Study**
 [Finhaven](/Blockchain_Case_Study/Finhaven.md)
+Blockchain_Case_Study 
+[Blockchain2](/Blockchain_Case_Study/Finhaven.md)
 
 ---
 ## **Part 2: Proof of Authority Development Chain**
